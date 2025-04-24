@@ -37,8 +37,8 @@
 
 
 
-### Name: Bharanidharan R
-### Register Number: 212224110012
+### Name: NIJANTH K
+### Register Number: 212224032186
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
